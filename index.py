@@ -74,6 +74,31 @@ students = ('John', 'Mary' , 'Peter') #tuple
 #Dictionaries can contain any data type
 #Dictionaries can contain duplicate keys
 
+#general exercise questions to work on
+#1. Create a list of 5 countries and print the list
+#2. Create a tuple of 5 countries and print the tuple
+#3. Create a dictionary of 5 countries and print the dictionary
+
+#4. Create a list of 5 countries and print the first country in the list
+#5. Create a tuple of 5 countries and print the first country in the tuple
+#6. Create a dictionary of 5 countries and print the first country in the dictionary
+#7. Create a list of 5 countries and print the last country in the list
+#8. Create a tuple of 5 countries and print the last country in the tuple
+
+#vriables questions
+#1. Create a variable x and assign it the value 5
+#6. Create a variable c and assign it the value [1, 2, 3, 4, 5]
+#7. Create a variable d and assign it the value (1, 2, 3, 4, 5)
+#8. Create a variable e and assign it the value {'name': 'John', 'age': 30, 'city': 'New York'}
+#9. Create a variable f and assign it the value {1, 2, 3, 4, 5}
+
+
+
+
+
+
+
+
 
 
 
